@@ -1,0 +1,5 @@
+海贝
+1,rtmp://pull.04pmaur.cn/live/524955_1609696652
+2,rtmp://pull.04pmaur.cn/live/346953_1609695001
+月老
+3,rtmp://pull.04pmaur.cn/live/58
